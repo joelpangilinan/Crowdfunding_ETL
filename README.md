@@ -75,13 +75,13 @@ Note: Remember to specify the data types, primary keys, foreign keys, and other 
 8. Verify that each table has the correct data by running a SELECT statement for each.
 
 # Using the following list of questions start a conversation with your group:
-What are the challenges associated with ETL?
-	- data integration.
-	- data is everywhere.
-What are the benefits of ETL?
-	- To have a common view of the data.
-	- Data analysis can be made more easier since data is consolidated.
-	- Unwanted data is filtered out.  Data is accurate.
-How might ETL change when moving to the cloud?
-	- AI can help on ETL process.
-	- Horizontal or vertical scaling is easier to achieve.
+1. What are the challenges associated with ETL?
+data integration.
+data is everywhere.
+2. What are the benefits of ETL?
+To have a common view of the data.
+Data analysis can be made more easier since data is consolidated.
+Unwanted data is filtered out.  Data is accurate.
+3. How might ETL change when moving to the cloud?
+AI can help on ETL process.
+Horizontal or vertical scaling is easier to achieve.
